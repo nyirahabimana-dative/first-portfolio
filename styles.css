@@ -2,22 +2,28 @@ h2{
     text-shadow:3px 3px 5px #e0b1bf;
     font-style: italic;
     text-align:center;
+    margin-top:0;
+    margin-bottom:0;
    
 
     
 }
-.image{
+.container{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQHuHVR594RsenUgjHjxSeOFLqlEGpe-TuTgGnhnvYs3_Dq8b1Q");
     background-repeat:no-repeat;
     background-size:cover;
     height:300px;
+    width: 100%;
+    
 }
 img{
     border-radius:50%;
-    width:200px;
-    height:200px;
-
-   
+    width:400px;
+    height:400px;
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+       
 }
 
 
@@ -28,6 +34,10 @@ body{
 ol,ul{
     font-family:helvetica;
     font-size:large;
+}
+# about{
+background-color: beige;
+
 }
 #icons{
     float:right;
