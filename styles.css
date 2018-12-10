@@ -23,22 +23,26 @@ img{
     display:block;
     margin-right:auto;
     margin-left:auto;
+    background-color:#a3a3df;
        
 }
 
 
-body{
-    background-color:rgb(234, 236, 239);
-}
 
 ol,ul{
     font-family:helvetica;
     font-size:large;
 }
-# about{
-background-color: beige;
+nav{
+    padding:10px;
+    float:right;
+   
 
 }
+nav>a{
+    margin:15px;
+}
+
 #icons{
     float:right;
     padding:15px;
