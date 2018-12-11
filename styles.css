@@ -2,20 +2,16 @@ h2{
     text-shadow:3px 3px 5px #e0b1bf;
     font-style: italic;
     text-align:center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-   transform: translate(-50%, -50%);
-   border: 5px solid whitesmoke;
-   padding: 20px;
-
+    
+  
     
 }
 .container{
-    background-image: url("https://www.dw.com/image/42369854_303.jpg");
+    background-image: url("http://www.designindaba.com/sites/default/files/styles/scaledlarge/public/node/news/24286/gallery/philhelinorth0686.jpg?itok=v9ypvocb");
     background-repeat:no-repeat;
     background-size:cover;
-    height:500px;
+    background-position: absolute;
+    width:100%;
 
   
     
@@ -30,24 +26,26 @@ img{
     background-color:#a3a3df;
        
 }
+.navigation{
+    float:right;
+
+}
+nav>ul>li{
+    display:inline-block;
+}
+ul>li>a{
+    padding:10px;
+    font-size: 1.0 em;
+    background-color: #a3a3df;
+    
+}
+li>a:hover{
+    color:burlywood;
+}
 
 ol,ul{
     font-family:helvetica;
     font-size:large;
-}
-nav{
-    padding:10px;
-    float:right;
-    color:blue;
-    font-size:1.2em;
-   }
-nav>a{
-    margin:10px;
-    padding:10px;
-}
-nav>a:hover{
-    color:grey;
-    padding:10px;
 }
 
 #icons{
