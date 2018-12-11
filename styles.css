@@ -3,8 +3,9 @@ h2{
     font-style: italic;
     text-align:center;
     
-  
-    
+}
+body{
+    background-color:#d5f4d4;
 }
 .container{
     background-image: url("http://www.designindaba.com/sites/default/files/styles/scaledlarge/public/node/news/24286/gallery/philhelinorth0686.jpg?itok=v9ypvocb");

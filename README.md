@@ -1,5 +1,5 @@
 # first-portfolio
-## Dative NYIRAHABBIMANA 
+## Dative NYIRAHABIMANA 
 The project was about me; my background; skills; hobbies and social media that I use
 ###project setup instructions
 ```
